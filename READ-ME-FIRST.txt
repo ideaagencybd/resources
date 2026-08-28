@@ -1,0 +1,68 @@
+THE RESOURCEFUL HUMAN - COMPLETE LIBRARY
+========================================
+
+HOW TO OPEN IT
+--------------
+Double-click  index.html
+
+That is the whole install. No setup, no internet connection required,
+no program to run. Every page in this folder is a complete web page.
+
+
+WHAT IS IN HERE
+---------------
+  239 course units across 4 tracks
+  578,715 words
+  4,986 sections
+  36 vault collections / 573 entries
+  75 tools
+  170 AI prompts
+  670 field missions
+  51 emergency situation playbooks
+
+Roughly 48.2 hours of reading, 1,286 printed pages.
+
+
+WHERE TO START
+--------------
+  index.html          The front door.
+  situations.html     If something is happening right now, start here.
+  library.html        A-Z index of everything.
+  progress.html       What you have read so far.
+
+Press  /  anywhere to search all 863+ pages.
+Type plain language - "boss shouting at me", "cant pay rent",
+"followed home at night" - it will find the right page.
+
+
+HOW THE FILES ARE NAMED
+-----------------------
+Everything is in this one folder, on purpose. Prefixes keep it navigable:
+
+  index.html          front page
+  track-*.html        the four courses
+  lesson-*.html       individual course units
+  situations.html     situations index
+  sit-*.html          individual situation playbooks
+  vault.html          reference vault index
+  vault-*.html        a vault collection
+  entry-*.html        one entry inside a collection
+  styles.css          all styling
+  app.js              all behaviour
+  search-index.js     the search index
+
+
+YOUR DATA
+---------
+Progress ticks, bookmarks and your light/dark preference are saved in
+your own browser only. Nothing is sent anywhere. There is no account,
+no server, no tracking. Clearing your browser data clears them.
+
+If you move this folder to a different computer, your progress does not
+travel with it - the pages do.
+
+
+PUTTING IT ONLINE (optional)
+----------------------------
+Upload the folder as-is to any static host - Cloudflare Pages, Netlify,
+GitHub Pages, S3, or any web server. No build step is needed.
